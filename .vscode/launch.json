@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run BusTicketReservationSystem",
+      "request": "launch",
+      "mainClass": "com.bus.main.Main",
+      "projectName": ""
+    }
+  ]
+}
